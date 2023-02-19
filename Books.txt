@@ -1,0 +1,5 @@
+ID      |        Name        |           Authors        |         Booktype         |         Price          | 
+
+001     |    Nineteen Eighty-Four   |    George Orwell    |    Science fiction     |    Rs 1990
+002     |    The Lord of the Rings   |    J.R.R. Tolkien    |    High fantasy, Adventure     |    Rs 2500
+

@@ -1,0 +1,5 @@
+Username                Password                 Usertype
+
+Dom                             0000                        Cashier             
+Mac                               0000                        Cashier
+Enola                            1234                        Manager
